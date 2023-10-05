@@ -1,16 +1,22 @@
-int idade = 48; 
-int velocidade = 96;
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        int idade = 48;
+        int velocidade = 96;
 
-long valorX = 45L;
+        long valorX = 45L;
 
-float altura;
-altura = 1.98F;
+        float altura;
+        altura = 1.98F;
 
-double peso;
-peso = 0.985346;
+        double peso;
+        peso = 0.985346;
 
-string nome;
-nome = "Amanda";
+        string nome;
+        nome = "Amanda";
 
-bool tentativa;
-tentativa = false;
+        bool tentativa;
+        tentativa = false;
+    }
+}
