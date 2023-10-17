@@ -8,5 +8,6 @@ internal class Program
 
         soma = numA + numB;
 
-        Console.WriteLine("O resultado dessa operação é" + soma)}
+        Console.WriteLine("O resultado dessa operação é" + soma)
+    }
 }
